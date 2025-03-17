@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p> 
 <div align="center"> 
- 🌍 Tôi là người Việt Nam 
+ 🌍 Tôi Là Người Việt Nam
 </div> 
 
 ### 🌐️ Liên Hệ Với Tôi Tại
